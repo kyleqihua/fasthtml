@@ -1,0 +1,3 @@
+[submodule "fasthtml-by-example/todo-app"]
+	path = fasthtml-by-example/todo-app
+	url = git@github.com:kyleqihua/fasthtml-todo-app.git
